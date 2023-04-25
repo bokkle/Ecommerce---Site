@@ -1,5 +1,3 @@
-console.log('kek')
-
 const openMenu = () => {
     document.body.classList += " menu--open"
 }
